@@ -4,7 +4,7 @@ Ce dépôt GitHub contient le travail effectué à l'occasion du projet Intellig
 ## Membres du groupe
 - [Warren GAURE](https://github.com/warren-gaure)
 - [Hugo VALLEMONT](https://github.com/sheydss)
-- [Membre #3](https://github.com/)
+- [Lucien BERTHO](https://github.com/asarck)
 - [Membre #4](https://github.com/)
 
 ## Contenu du dépôt
